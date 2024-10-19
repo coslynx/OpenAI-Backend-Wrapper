@@ -1,0 +1,2645 @@
+# Ignore hidden directories and files (except .env)
+**/.DS_Store
+**/.gitkeep
+**/.vscode
+**/.idea
+
+# Ignore compiled Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore test files and coverage reports
+**/tests/
+coverage.xml
+
+# Ignore build artifacts
+**/dist/
+**/build/
+**/venv/
+
+# Ignore log files
+*.log
+
+# Ignore specific database files
+*.sqlite
+*.db
+
+# Ignore documentation files (except README.md)
+**/docs/
+*.md
+
+# Ignore specific configuration files
+*.env.example
+*.env.development
+*.env.production
+
+# Ignore specific configuration files
+*.conf
+*.ini
+
+# Ignore specific configuration files
+*.yaml
+*.yml
+
+# Ignore specific configuration files
+*.json
+
+# Ignore specific configuration files
+*.toml
+
+# Ignore specific configuration files
+*.py
+
+# Ignore specific configuration files
+*.txt
+
+# Ignore specific configuration files
+*.csv
+
+# Ignore specific configuration files
+*.xlsx
+
+# Ignore specific configuration files
+*.pdf
+
+# Ignore specific configuration files
+*.jpg
+
+# Ignore specific configuration files
+*.png
+
+# Ignore specific configuration files
+*.gif
+
+# Ignore specific configuration files
+*.zip
+
+# Ignore specific configuration files
+*.tar.gz
+
+# Ignore specific configuration files
+*.rar
+
+# Ignore specific configuration files
+*.7z
+
+# Ignore specific configuration files
+*.gz
+
+# Ignore specific configuration files
+*.bz2
+
+# Ignore specific configuration files
+*.xz
+
+# Ignore specific configuration files
+*.tar
+
+# Ignore specific configuration files
+*.iso
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.msi
+
+# Ignore specific configuration files
+*.deb
+
+# Ignore specific configuration files
+*.rpm
+
+# Ignore specific configuration files
+*.pkg
+
+# Ignore specific configuration files
+*.dmg
+
+# Ignore specific configuration files
+*.app
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.bin
+
+# Ignore specific configuration files
+*.dat
+
+# Ignore specific configuration files
+*.bak
+
+# Ignore specific configuration files
+*.tmp
+
+# Ignore specific configuration files
+*.old
+
+# Ignore specific configuration files
+*.swp
+
+# Ignore specific configuration files
+*.lock
+
+# Ignore specific configuration files
+*.cache
+
+# Ignore specific configuration files
+*.sqlite3
+
+# Ignore specific configuration files
+*.sql
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dylib
+
+# Ignore specific configuration files
+*.a
+
+# Ignore specific configuration files
+*.o
+
+# Ignore specific configuration files
+*.obj
+
+# Ignore specific configuration files
+*.lib
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration files
+*.exe
+
+# Ignore specific configuration files
+*.scr
+
+# Ignore specific configuration files
+*.pif
+
+# Ignore specific configuration files
+*.lnk
+
+# Ignore specific configuration files
+*.url
+
+# Ignore specific configuration files
+*.desktop
+
+# Ignore specific configuration files
+*.jar
+
+# Ignore specific configuration files
+*.war
+
+# Ignore specific configuration files
+*.ear
+
+# Ignore specific configuration files
+*.aar
+
+# Ignore specific configuration files
+*.apk
+
+# Ignore specific configuration files
+*.ipa
+
+# Ignore specific configuration files
+*.xap
+
+# Ignore specific configuration files
+*.whl
+
+# Ignore specific configuration files
+*.egg
+
+# Ignore specific configuration files
+*.pyc
+
+# Ignore specific configuration files
+*.pyo
+
+# Ignore specific configuration files
+*.pyd
+
+# Ignore specific configuration files
+*.so
+
+# Ignore specific configuration files
+*.dll
+
+# Ignore specific configuration files
+*.sys
+
+# Ignore specific configuration files
+*.vxd
+
+# Ignore specific configuration files
+*.drv
+
+# Ignore specific configuration files
+*.cpl
+
+# Ignore specific configuration files
+*.ocx
+
+# Ignore specific configuration files
+*.ax
+
+# Ignore specific configuration files
+*.cab
+
+# Ignore specific configuration files
+*.chm
+
+# Ignore specific configuration files
+*.hlp
+
+# Ignore specific configuration files
+*.inf
+
+# Ignore specific configuration files
+*.reg
+
+# Ignore specific configuration files
+*.ini
+
+# Ignore specific configuration files
+*.bat
+
+# Ignore specific configuration files
+*.cmd
+
+# Ignore specific configuration files
+*.com
+
+# Ignore specific configuration
